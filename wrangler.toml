@@ -1,0 +1,8 @@
+name = "dilber-ali-nums"
+main = "worker.js"
+compatibility_date = "2025-07-10"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "dilber-db"
+database_id = "YOUR_DATABASE_ID"
